@@ -5,7 +5,7 @@ int main()
 {
 
   /*
-    O if-else em C não possui nenhuma diferença notável, se comporta da mesma forma
+    O while em C não possui nenhuma diferença notável, se comporta da mesma forma
     que nas outras linguagens de programação.
   */
 
