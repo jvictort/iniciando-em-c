@@ -5,6 +5,11 @@ void resultado(float nota)
 {
   char mencao;
 
+  /*
+    O if-else em C não possui nenhuma diferença notável, se comporta da mesma forma
+    que nas outras linguagens de programação.
+  */
+
   if(nota >= 9 && nota <= 10) {
     mencao = 'A';
   } else if(nota >= 7 && nota <= 8) {
